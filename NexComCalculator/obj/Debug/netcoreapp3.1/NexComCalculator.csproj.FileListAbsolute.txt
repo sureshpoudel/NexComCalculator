@@ -1,0 +1,13 @@
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\bin\Debug\netcoreapp3.1\NexComCalculator.exe
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\bin\Debug\netcoreapp3.1\NexComCalculator.deps.json
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\bin\Debug\netcoreapp3.1\NexComCalculator.runtimeconfig.json
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\bin\Debug\netcoreapp3.1\NexComCalculator.runtimeconfig.dev.json
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\bin\Debug\netcoreapp3.1\NexComCalculator.dll
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\bin\Debug\netcoreapp3.1\NexComCalculator.pdb
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\obj\Debug\netcoreapp3.1\NexComCalculator.csprojAssemblyReference.cache
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\obj\Debug\netcoreapp3.1\NexComCalculator.AssemblyInfoInputs.cache
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\obj\Debug\netcoreapp3.1\NexComCalculator.AssemblyInfo.cs
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\obj\Debug\netcoreapp3.1\NexComCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\obj\Debug\netcoreapp3.1\NexComCalculator.dll
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\obj\Debug\netcoreapp3.1\NexComCalculator.pdb
+C:\Users\Spoudel\Desktop\Nexcom\NexComCalculator\NexComCalculator\obj\Debug\netcoreapp3.1\NexComCalculator.genruntimeconfig.cache

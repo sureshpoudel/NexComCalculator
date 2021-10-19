@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Spoudel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Spoudel\\.nuget\\packages"
+    ]
+  }
+}
